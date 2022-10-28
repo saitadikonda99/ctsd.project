@@ -1,10 +1,2 @@
-PROJECTS IN SEM-1
-
-
-
-
-
-
-
-    
+PROJECTS IN SEM1
 
